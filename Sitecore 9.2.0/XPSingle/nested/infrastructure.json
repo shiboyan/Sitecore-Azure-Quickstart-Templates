@@ -272,7 +272,7 @@
       "resources": [
         {
           "type": "siteextensions",
-          "name": "AspNetCoreRuntime",
+          "name": "AspNetCoreRuntime.3.0.x64",
           "apiVersion": "[variables('siteExtensionsVersion')]",
           "location": "[resourceGroup().location]",
           "properties": {
